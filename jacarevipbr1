@@ -1,0 +1,92 @@
+{
+  "Version": "1.0.2",
+  "ReleaseNotes": "GDN SOCKS VIP",
+  "UrlUpdate": "https://raw.githubusercontent.com/Wellingtonbnm2/sockssn/main/jacarevipbr1",
+  "Sms": "https://raw.githubusercontent.com/Wellingtonbnm2/wellingtonip/main/mensagem",
+  "EmailFeedback": "gdncontas@gmail.com",
+  "UrlContato": "https://wa.me/qr/5YCL5YCBBSK3E1",
+  "UrlTermos": "https://raw.githubusercontent.com/Wellingtonbnm2/atlantus_key.cc/main/termos.html",
+  "CheckUser": "true",
+  "Udp": [
+    {
+      "Porta": "7100"
+    },
+    {
+      "Porta": "7200"
+    },
+    {
+      "Porta": "7300"
+    },
+    {
+      "Porta": "7400"
+    },
+    {
+      "Porta": "7500"
+    }
+  ],
+  "Servers": [
+    {
+      "Name": "SERVIDOR BR",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "br03.grupodanet.com",
+      "CheckUser": "http://179.127.16.155:5454/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    }
+  ],
+  "Networks": [
+    {
+      "Name": "VIVO SSL+PAY",
+      "FLAG": "vivo",
+      "Payload": "GET sni://vigia.vivo.com.br HTTP/1.1[crlf]Host: br03.grupodanet.com[crlf]X-Forward-Host: br03.grupodanet.com[crlf]Connection: upgrade[crlf]upgrade: websocket[crlf][crlf]",
+      "SNI": "vigia.vivo.com.br",
+      "TlsIP": "vigia.vivo.com.br",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "VIVO DIRECT",
+      "FLAG": "vivo",
+      "Payload": "GET sni://backoffice-equipamentos01.vivo.com.br HTTP/1.1[crlf]Host: br03.grupodanet.com[crlf]X-Forward-Host: br03.grupodanet.com[crlf]Connection: upgrade[crlf]upgrade: websocket[crlf][crlf]",
+      "SNI": "backoffice-equipamentos01.vivo.com.br",
+      "TlsIP": "backoffice-equipamentos01.vivo.com.br",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "TIM SSL+PAY",
+      "FLAG": "tim",
+      "Payload": "GET wss://tim.gdmhost.ga/ HTTP/1.1[crlf]Host: br03.grupodanet.com[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "tim.gdmhost.ga",
+      "TlsIP": "tim.gdmhost.ga",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "CLARO IPV4",
+      "FLAG": "claro",
+      "Payload": "GET wss://atendimento.descomplica.com.br HTTP/1.1[crlf]Host: br03.grupodanet.com[crlf]Connection: upgrade[crlf]Upgrade: websocket [crlf][crlf]",
+      "SNI": "atendimento.descomplica.com.br",
+      "TlsIP": "no.descomplica.com.br",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "OI - ALGUNS DDDs",
+      "FLAG": "oi",
+      "Payload": "GET wss://ww.hbogo.com.br HTTP/1.1[crlf]Host: br03.grupodanet.com[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "ww.hbogo.com.br",
+      "TlsIP": "ww.hbogo.com.br",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    }
+  ]
+}
