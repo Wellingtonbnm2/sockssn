@@ -38,6 +38,16 @@
     }
   ],
   "Networks": [
+     {
+      "Name": "VIVO Direct 01",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.18.6.80",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
     {
       "Name": "VIVO SSL+PAY",
       "FLAG": "vivo",
@@ -49,17 +59,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "VIVO DIRECT",
-      "FLAG": "vivo",
-      "Payload": "GET sni://backoffice-equipamentos01.vivo.com.br HTTP/1.1[crlf]Host: br01.grupodanet.com[crlf]X-Forward-Host: br01.grupodanet.com[crlf]Connection: upgrade[crlf]upgrade: websocket[crlf][crlf]",
-      "SNI": "backoffice-equipamentos01.vivo.com.br",
-      "TlsIP": "backoffice-equipamentos01.vivo.com.br",
-      "ProxyIP": "",
-      "ProxyPort": "",
-      "Info": "Tlsws"
-    },
-    {
-      "Name": "TIM SSL+SSH",
+      "Name": "TIM SSL+PAY",
       "FLAG": "tim",
       "Payload": "GET wss://tim.gdmhost.ga/ HTTP/1.1[crlf]Host: br01.grupodanet.com[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "tim.gdmhost.ga",
@@ -79,7 +79,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "CLARO IPv4",
+      "Name": "CLARO IPV4",
       "FLAG": "claro",
       "Payload": "GET wss://atendimento.descomplica.com.br HTTP/1.1[crlf]Host: br01.grupodanet.com[crlf]Connection: upgrade[crlf]Upgrade: websocket [crlf][crlf]",
       "SNI": "atendimento.descomplica.com.br",
