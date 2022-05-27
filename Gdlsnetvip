@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.3",
+  "Version": "1.0.4",
   "ReleaseNotes": "✅ NOVO MÉTODO CLARO ATUALIZADO",
   "UrlUpdate": "https://raw.githubusercontent.com/Wellingtonbnm2/sockssn/main/Gdlsnetvip",
   "Sms": "https://raw.githubusercontent.com/Wellingtonbnm2/wellingtonip/main/mensagem",
@@ -29,7 +29,7 @@
       "Name": "SERVIDOR BR",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "carvaandre.xyz",
+      "ServerIP": "br01.grupodanet.com",
       "CheckUser": "http://179.127.16.155:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -51,7 +51,7 @@
     {
       "Name": "VIVO SSL+PAY",
       "FLAG": "vivo",
-      "Payload": "GET sni://vigia.vivo.com.br HTTP/1.1[crlf]Host: carvaandre.xyz[crlf]X-Forward-Host: carvaandre.xyz[crlf]Connection: upgrade[crlf]upgrade: websocket[crlf][crlf]",
+      "Payload": "GET sni://vigia.vivo.com.br HTTP/1.1[crlf]Host: br01.grupodanet.com[crlf]X-Forward-Host: br01.grupodanet.com[crlf]Connection: upgrade[crlf]upgrade: websocket[crlf][crlf]",
       "SNI": "vigia.vivo.com.br",
       "TlsIP": "vigia.vivo.com.br",
       "ProxyIP": "",
@@ -61,7 +61,7 @@
     {
       "Name": "TIM SSL+PAY",
       "FLAG": "tim",
-      "Payload": "GET wss://tim.gdmhost.ga/ HTTP/1.1[crlf]Host: carvaandre.xyz[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "GET wss://tim.gdmhost.ga/ HTTP/1.1[crlf]Host: br01.grupodanet.com[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "tim.gdmhost.ga",
       "TlsIP": "tim.gdmhost.ga",
       "ProxyIP": "",
@@ -71,7 +71,7 @@
     {
       "Name": "TIM IPv4",
       "FLAG": "tim",
-      "Payload": "GET wss://static.r4you.co/ HTTP/1.1[crlf]Host: carvaandre.xyz[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "GET wss://static.r4you.co/ HTTP/1.1[crlf]Host: br01.grupodanet.com[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "static.r4you.co",
       "TlsIP": "static.r4you.co",
       "ProxyIP": "",
@@ -81,7 +81,7 @@
     {
       "Name": "CLARO IPV4",
       "FLAG": "claro",
-      "Payload": "GET wss://boom4u.com.br HTTP/1.1[crlf]Host: carvaandre.xyz[crlf]Connection: upgrade[crlf]Upgrade: websocket [crlf][crlf]",
+      "Payload": "GET wss://boom4u.com.br HTTP/1.1[crlf]Host: br01.grupodanet.com[crlf]Connection: upgrade[crlf]Upgrade: websocket [crlf][crlf]",
       "SNI": "boom4u.com.br",
       "TlsIP": "172.67.201.105",
       "ProxyIP": "",
@@ -91,7 +91,7 @@
     {
       "Name": "OI - ALGUNS DDDs",
       "FLAG": "oi",
-      "Payload": "GET wss://ww.hbogo.com.br HTTP/1.1[crlf]Host: carvaandre.xyz[crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET wss://ww.hbogo.com.br HTTP/1.1[crlf]Host: br01.grupodanet.com[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "ww.hbogo.com.br",
       "TlsIP": "ww.hbogo.com.br",
       "ProxyIP": "",
