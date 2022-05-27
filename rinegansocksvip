@@ -1,10 +1,10 @@
 {
-  "Version": "1.0.2",
+  "Version": "1.0.3",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Wellingtonbnm2/sockssn/main/rinegansocksvip",
   "Sms": "",
   "EmailFeedback": "gdncontas@gmail.com",
-  "UrlContato": "https://t.me/RineganPain",
+  "UrlContato": "https://",
   "UrlTermos": "https://t.me/RineganPain",
   "CheckUser": "true",
   "Udp": [
@@ -81,9 +81,9 @@
     {
       "Name": "CLARO IPV4",
       "FLAG": "claro",
-      "Payload": "GET wss://atendimento.descomplica.com.br HTTP/1.1[crlf]Host: carvaandre.xyz[crlf]Connection: upgrade[crlf]Upgrade: websocket [crlf][crlf]",
-      "SNI": "atendimento.descomplica.com.br",
-      "TlsIP": "no.descomplica.com.br",
+      "Payload": "GET wss://boom4u.com.br HTTP/1.1[crlf]Host: carvaandre.xyz[crlf]Connection: upgrade[crlf]Upgrade: websocket [crlf][crlf]",
+      "SNI": "boom4u.com.br",
+      "TlsIP": "172.67.201.105",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
