@@ -1,7 +1,6 @@
-
 {
-  "Version": "1.0.2",
-  "ReleaseNotes": "GDN SOCKS VIP",
+  "Version": "1.0.3",
+  "ReleaseNotes": "✅NOVO MÉTODO CLARO ATUALIZADO✅",
   "UrlUpdate": "https://raw.githubusercontent.com/Wellingtonbnm2/sockssn/main/jacarevipbr2",
   "Sms": "https://raw.githubusercontent.com/Wellingtonbnm2/wellingtonip/main/mensagem",
   "EmailFeedback": "gdncontas@gmail.com",
@@ -39,22 +38,22 @@
     }
   ],
   "Networks": [
+     {
+      "Name": "VIVO Direct 01",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.18.6.80",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
     {
       "Name": "VIVO SSL+PAY",
       "FLAG": "vivo",
       "Payload": "GET sni://vigia.vivo.com.br HTTP/1.1[crlf]Host: br02.grupodanet.com[crlf]X-Forward-Host: br02.grupodanet.com[crlf]Connection: upgrade[crlf]upgrade: websocket[crlf][crlf]",
       "SNI": "vigia.vivo.com.br",
       "TlsIP": "vigia.vivo.com.br",
-      "ProxyIP": "",
-      "ProxyPort": "",
-      "Info": "Tlsws"
-    },
-    {
-      "Name": "VIVO DIRECT",
-      "FLAG": "vivo",
-      "Payload": "GET sni://backoffice-equipamentos01.vivo.com.br HTTP/1.1[crlf]Host: br02.grupodanet.com[crlf]X-Forward-Host: br02.grupodanet.com[crlf]Connection: upgrade[crlf]upgrade: websocket[crlf][crlf]",
-      "SNI": "backoffice-equipamentos01.vivo.com.br",
-      "TlsIP": "backoffice-equipamentos01.vivo.com.br",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
@@ -70,11 +69,21 @@
       "Info": "Tlsws"
     },
     {
+      "Name": "TIM IPv4",
+      "FLAG": "tim",
+      "Payload": "GET wss://static.r4you.co/ HTTP/1.1[crlf]Host: br02.grupodanet.com[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "static.r4you.co",
+      "TlsIP": "static.r4you.co",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
       "Name": "CLARO IPV4",
       "FLAG": "claro",
-      "Payload": "GET wss://atendimento.descomplica.com.br HTTP/1.1[crlf]Host: br02.grupodanet.com[crlf]Connection: upgrade[crlf]Upgrade: websocket [crlf][crlf]",
-      "SNI": "atendimento.descomplica.com.br",
-      "TlsIP": "no.descomplica.com.br",
+      "Payload": "GET wss://boom4u.com.br HTTP/1.1[crlf]Host: br02.grupodanet.com[crlf]Connection: upgrade[crlf]Upgrade: websocket [crlf][crlf]",
+      "SNI": "boom4u.com.br",
+      "TlsIP": "172.67.201.105",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
