@@ -1,7 +1,7 @@
 {
   "Version": "1.0.3",
   "ReleaseNotes": "✅NOVO MÉTODO CLARO ATUALIZADO✅",
-  "UrlUpdate": "https://raw.githubusercontent.com/Wellingtonbnm2/sockssn/main/jacarevipbr2",
+  "UrlUpdate": "https://raw.githubusercontent.com/Wellingtonbnm2/sockssn/main/jacarevipbr1",
   "Sms": "https://raw.githubusercontent.com/Wellingtonbnm2/wellingtonip/main/mensagem",
   "EmailFeedback": "gdncontas@gmail.com",
   "UrlContato": "https://wa.me/qr/5YCL5YCBBSK3E1",
@@ -79,11 +79,21 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "CLARO IPV4",
+      "Name": "CLARO SSL+PAY",
       "FLAG": "claro",
-      "Payload": "GET wss://boom4u.com.br HTTP/1.1[crlf]Host: br02.grupodanet.com[crlf]Connection: upgrade[crlf]Upgrade: websocket [crlf][crlf]",
-      "SNI": "boom4u.com.br",
-      "TlsIP": "172.67.201.105",
+      "Payload": "GET wss://No.descomplica.com.br HTTP/1.1[crlf]Host: br02.grupodanet.com[crlf]Connection: upgrade[crlf]Upgrade: websocket [crlf][crlf]",
+      "SNI": "No.descomplica.com.br",
+      "TlsIP": "No.descomplica.com.br",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "CLARO lenta",
+      "FLAG": "claro",
+      "Payload": "GET wss://content.akross.com.br HTTP/1.1[crlf]Host: br02.grupodanet.com[crlf]Connection: upgrade[crlf]Upgrade: websocket [crlf][crlf]",
+      "SNI": "content.akross.com.br",
+      "TlsIP": "content.akross.com.br",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
