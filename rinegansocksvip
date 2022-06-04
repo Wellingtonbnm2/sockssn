@@ -81,9 +81,9 @@
     {
       "Name": "CLARO IPV4",
       "FLAG": "claro",
-      "Payload": "GET wss://boom4u.com.br HTTP/1.1[crlf]Host: carvaandre.xyz[crlf]Connection: upgrade[crlf]Upgrade: websocket [crlf][crlf]",
-      "SNI": "boom4u.com.br",
-      "TlsIP": "172.67.201.105",
+      "Payload": "GET wss://No.descomplica.com.br HTTP/1.1[crlf]Host: carvaandre.xyz[crlf]Connection: upgrade[crlf]Upgrade: websocket [crlf][crlf]",
+      "SNI": "No.descomplica.com.br",
+      "TlsIP": "No.descomplica.com.br",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
