@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.6",
-  "ReleaseNotes": "✅NOVO MÉTODO CLARO ATUALIZADO",
+  "Version": "1.0.7",
+  "ReleaseNotes": "✅TIM ATUALIZAÇÃO ",
   "UrlUpdate": "https://raw.githubusercontent.com/Wellingtonbnm2/sockssn/main/rinegansocksvip",
   "Sms": "",
   "EmailFeedback": "gdncontas@gmail.com",
@@ -58,15 +58,15 @@
       "ProxyPort": "",
       "Info": "Tlsws"
     },
-    {
-      "Name": "TIM SSL+PAY",
+    {  
+        "Name": "Tim 1",
       "FLAG": "tim",
-      "Payload": "GET wss://tim.gdmhost.ga/ HTTP/1.1[crlf]Host: carvaandre.xyz[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "tim.gdmhost.ga",
-      "TlsIP": "tim.gdmhost.ga",
+      "Payload": "GET wss://static.r4you.co HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Keep-alive[crlf]Upgrade: ws[crlf][crlf]",
+      "SNI": "static.r4you.co",
+      "TlsIP": "104.26.5.175",
       "ProxyIP": "",
       "ProxyPort": "",
-      "Info": "Tlsws"
+      "Info": "Tlsws" 
     },
     {
       "Name": "TIM IPv4",
@@ -86,6 +86,16 @@
       "TlsIP": "No.descomplica.com.br",
       "ProxyIP": "",
       "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "CLARO SSL+PAY",
+      "FLAG": "claro",
+      "Payload": "GET wss://icanhazip.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: BRABO[crlf][crlf]",
+      "SNI": "icanhazip.com",
+      "TlsIP": "icanhazip.com",
+      "ProxyIP": "icanhazip.com",
+      "ProxyPort": "443",
       "Info": "Tlsws"
     },
     {
