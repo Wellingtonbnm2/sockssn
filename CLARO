@@ -41,7 +41,7 @@
     {
       "Name": "CLARO IPV4",
       "FLAG": "claro",
-      "Payload": "GET wss://icanhazip.com/ HTTP/1.1[crlf]Host: br01.grupodanet.com[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "GET wss://icanhazip.com/ HTTP/1.1[crlf]Host: carvaandre.xyz[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "",
       "TlsIP": "icanhazip.com",
       "ProxyIP": "icanhazip.com",
