@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.2",
+  "Version": "1.0.3",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/Wellingtonbnm2/sockssn/main/CLARO",
   "Sms": "https://raw.githubusercontent.com/Wellingtonbnm2/wellingtonip/main/mensagem1",
@@ -39,12 +39,12 @@
   ],
   "Networks": [
     {
-      "Name": "CLARO SSL+PAY",
+      "Name": "CLARO IPV4",
       "FLAG": "claro",
-      "Payload": "GET wss://No.descomplica.com.br HTTP/1.1[crlf]Host: carvaandre.xyz[crlf]Connection: upgrade[crlf]Upgrade: websocket [crlf][crlf]",
-      "SNI": "No.descomplica.com.br",
-      "TlsIP": "No.descomplica.com.br",
-      "ProxyIP": "",
+      "Payload": "GET wss://icanhazip.com/ HTTP/1.1[crlf]Host: br01.grupodanet.com[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "icanhazip.com",
+      "ProxyIP": "icanhazip.com",
       "ProxyPort": "",
       "Info": "Tlsws"
     }
