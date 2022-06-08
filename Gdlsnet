@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.4",
-  "ReleaseNotes": "✅ CLARO ATUALIZADO",
+  "Version": "1.0.5",
+  "ReleaseNotes": "✅ CLARO on ATUALIZADO",
   "UrlUpdate": "https://raw.githubusercontent.com/Wellingtonbnm2/sockssn/main/Gdlsnetvip",
   "Sms": "https://raw.githubusercontent.com/Wellingtonbnm2/wellingtonip/main/mensagem",
   "EmailFeedback": "gdncontas@gmail.com",
@@ -81,9 +81,9 @@
     {
       "Name": "CLARO SSL+PAY",
       "FLAG": "claro",
-      "Payload": "GET wss://No.descomplica.com.br HTTP/1.1[crlf]Host: br01.grupodanet.com[crlf]Connection: upgrade[crlf]Upgrade: websocket [crlf][crlf]",
-      "SNI": "No.descomplica.com.br",
-      "TlsIP": "No.descomplica.com.br",
+      "Payload": "GET wss://learning.kaltura.com HTTP/1.1[crlf]Host: br01.grupodanet.com[crlf]Connection: upgrade[crlf]Upgrade: websocket [crlf][crlf]",
+      "SNI": "learning.kaltura.com",
+      "TlsIP": "learning.kaltura.com",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
