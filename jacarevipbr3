@@ -91,9 +91,9 @@
     {
       "Name": "CLARO lenta",
       "FLAG": "claro",
-      "Payload": "GET wss://content.akross.com.br HTTP/1.1[crlf]Host: br03.grupodanet.com[crlf]Connection: upgrade[crlf]Upgrade: websocket [crlf][crlf]",
-      "SNI": "content.akross.com.br",
-      "TlsIP": "content.akross.com.br",
+      "Payload": "GET wss://communitystaging.kaltura.com HTTP/1.1[crlf]Host: br03.grupodanet.com[crlf]Connection: upgrade[crlf]Upgrade: websocket [crlf][crlf]",
+      "SNI": "communitystaging.kaltura.com",
+      "TlsIP": "communitystaging.kaltura.com",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
