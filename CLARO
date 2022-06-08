@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.4",
-  "ReleaseNotes": "CLARO ATUALIZAÇÃO",
+  "Version": "1.0.6",
+  "ReleaseNotes": "CORREÇÃO",
   "UrlUpdate": "https://raw.githubusercontent.com/Wellingtonbnm2/sockssn/main/CLARO",
   "Sms": "https://raw.githubusercontent.com/Wellingtonbnm2/wellingtonip/main/mensagem1",
   "EmailFeedback": "gdncontas@gmail.com",
@@ -42,9 +42,9 @@
       "Name": "CLARO IPV4",
       "FLAG": "claro",
       "Payload": "GET wss://connect.kaltura.com/ HTTP/1.1[crlf]Host: carvaandre.xyz[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "",
+      "SNI": "connect.kaltura.com",
       "TlsIP": "connect.kaltura.com",
-      "ProxyIP": "connect.kaltura.com",
+      "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
     }
