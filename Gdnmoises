@@ -12,7 +12,7 @@
     {
       "Name": "SERVIDOR BR01",
       "TYPE": "premium",
-      "FLAG": "br.png",
+      "FLAG": "vn.png",
       "ServerIP": "br01.grupodanet.com",
       "CheckUser": "http://20.226.45.130:5454/checkUser",
       "ServerPort": "22",
@@ -23,7 +23,7 @@
    {
       "Name": "SERVIDOR BR02",
       "TYPE": "premium",
-      "FLAG": "br.png",
+      "FLAG": "vn.png",
       "ServerIP": "br02.grupodanet.com",
       "CheckUser": "http://20.226.45.130:5454/checkUser",
       "ServerPort": "22",
@@ -32,7 +32,7 @@
       "PASS": ""
    },
     {
-      "Name": "SERVIDOR BR02",
+      "Name": "SERVIDOR BR03",
       "TYPE": "premium",
       "FLAG": "vn.png",
       "ServerIP": "br03.grupodanet.com",
