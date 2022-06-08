@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.7",
-  "ReleaseNotes": "✅TIM ATUALIZAÇÃO ",
+  "Version": "1.0.8",
+  "ReleaseNotes": "✅Claro ATUALIZAÇÃO ",
   "UrlUpdate": "https://raw.githubusercontent.com/Wellingtonbnm2/sockssn/main/rinegansocksvip",
   "Sms": "",
   "EmailFeedback": "gdncontas@gmail.com",
@@ -79,11 +79,11 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "CLARO IPV4",
+      "Name": "CLARO SSL",
       "FLAG": "claro",
-      "Payload": "GET wss://No.descomplica.com.br HTTP/1.1[crlf]Host: carvaandre.xyz[crlf]Connection: upgrade[crlf]Upgrade: websocket [crlf][crlf]",
-      "SNI": "No.descomplica.com.br",
-      "TlsIP": "No.descomplica.com.br",
+      "Payload": "GET wss://blog.kaltura.com HTTP/1.1[crlf]Host: carvaandre.xyz[crlf]Connection: upgrade[crlf]Upgrade: websocket [crlf][crlf]",
+      "SNI": "blog.kaltura.com",
+      "TlsIP": "blog.kaltura.com",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
@@ -91,10 +91,10 @@
     {
       "Name": "CLARO SSL+PAY",
       "FLAG": "claro",
-      "Payload": "GET wss://icanhazip.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: BRABO[crlf][crlf]",
-      "SNI": "icanhazip.com",
-      "TlsIP": "icanhazip.com",
-      "ProxyIP": "icanhazip.com",
+      "Payload": "GET wss://communitystaging.kaltura.comm/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: BRABO[crlf][crlf]",
+      "SNI": "communitystaging.kaltura.com",
+      "TlsIP": "communitystaging.kaltura.com",
+      "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
     },
