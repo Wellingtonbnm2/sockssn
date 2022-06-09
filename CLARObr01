@@ -41,9 +41,9 @@
     {
       "Name": "CLARO SSL+PAY",
       "FLAG": "claro",
-      "Payload": "GET wss://blog.kaltura.com/ HTTP/1.1[crlf]Host: br01.grupodanet.com[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "blog.kaltura.com",
-      "TlsIP": "blog.kaltura.com",
+      "Payload": "GET wss://content.akross.com.br/ HTTP/1.1[crlf]Host: br01.grupodanet.com[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "content.akross.com.br",
+      "TlsIP": "content.akross.com.br",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
