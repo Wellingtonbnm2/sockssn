@@ -44,16 +44,16 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "104.18.6.80",
+      "ProxyIP": "104.17.244.235",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
     {
       "Name": "VIVO SSL+PAY",
       "FLAG": "vivo",
-      "Payload": "GET sni://vigia.vivo.com.br HTTP/1.1[crlf]Host: br01.grupodanet.com[crlf]X-Forward-Host: br01.grupodanet.com[crlf]Connection: upgrade[crlf]upgrade: websocket[crlf][crlf]",
-      "SNI": "vigia.vivo.com.br",
-      "TlsIP": "vigia.vivo.com.br",
+      "Payload": "GET sni://api.bitso.com HTTP/1.1[crlf]Host: br01.grupodanet.com[crlf]X-Forward-Host: br01.grupodanet.com[crlf]Connection: upgrade[crlf]upgrade: websocket[crlf][crlf]",
+      "SNI": "api.bitso.com",
+      "TlsIP": "api.bitso.com",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
