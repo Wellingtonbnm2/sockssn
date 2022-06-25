@@ -29,7 +29,7 @@
       "Name": "SERVIDOR BR",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "br01.grupodanet.com",
+      "ServerIP": "br01.grupodanet.xyz",
       "CheckUser": "http://179.127.16.155:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
