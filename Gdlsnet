@@ -44,7 +44,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "104.17.244.235",
+      "ProxyIP": "104.24.10.16",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
