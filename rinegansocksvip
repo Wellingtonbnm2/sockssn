@@ -49,7 +49,7 @@
     "Info": "Tlsws"
     },
      {
-    "Name": "🟣VIVO RJ",
+    "Name": "🟣VIVO PRE PAGO",
     "FLAG": "vivo",
     "Payload": "GET wss://concursos.alfaumuarama.edu.br HTTP/1.1[crlf]Host: [app_host][crlf]Connection: keep-alive[crlf]Upgrade: websocket[crlf]Sec-Websocket-Extensions: superspeed[crlf][crlf]",
     "SNI": "concursos.alfaumuarama.edu.br",
