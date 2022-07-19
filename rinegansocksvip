@@ -1,6 +1,6 @@
 {
-  "Version": "1.1.1",
-  "ReleaseNotes": "✅VIVO ATUALIZAÇÃO ",
+  "Version": "1.1.2",
+  "ReleaseNotes": "✅CLARO 1 ONLINE",
   "UrlUpdate": "https://raw.githubusercontent.com/Wellingtonbnm2/sockssn/main/rinegansocksvip",
   "Sms": "",
   "EmailFeedback": "gdncontas@gmail.com",
@@ -79,11 +79,11 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "CLARO SSL",
+      "Name": "CLARO SSL 01",
       "FLAG": "claro",
-      "Payload": "GET wss://blog.kaltura.com HTTP/1.1[crlf]Host: carvaandre.xyz[crlf]Connection: upgrade[crlf]Upgrade: websocket [crlf][crlf]",
-      "SNI": "blog.kaltura.com",
-      "TlsIP": "blog.kaltura.com",
+      "Payload": "GET wss://4.icanhazip.com HTTP/1.1[crlf]Host: carvaandre.xyz[crlf]Connection: upgrade[crlf]Upgrade: websocket [crlf][crlf]",
+      "SNI": "4.icanhazip.com",
+      "TlsIP": "4.icanhazip.com",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
