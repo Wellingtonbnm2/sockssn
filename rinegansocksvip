@@ -1,6 +1,6 @@
 {
   "Version": "1.1.2",
-  "ReleaseNotes": "✅CLARO 1 ONLINE",
+  "ReleaseNotes": "✅CLARO 2 ONLINE",
   "UrlUpdate": "https://raw.githubusercontent.com/Wellingtonbnm2/sockssn/main/rinegansocksvip",
   "Sms": "",
   "EmailFeedback": "gdncontas@gmail.com",
@@ -79,7 +79,7 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "CLARO SSL 01",
+      "Name": "CLARO SSL 02",
       "FLAG": "claro",
       "Payload": "GET wss://4.icanhazip.com HTTP/1.1[crlf]Host: carvaandre.xyz[crlf]Connection: upgrade[crlf]Upgrade: websocket [crlf][crlf]",
       "SNI": "4.icanhazip.com",
