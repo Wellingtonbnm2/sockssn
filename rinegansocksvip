@@ -1,6 +1,6 @@
 {
   "Version": "1.1.2",
-  "ReleaseNotes": "✅CLARO 2 ONLINE",
+  "ReleaseNotes": "✅VIVO E TIM ATT",
   "UrlUpdate": "https://raw.githubusercontent.com/Wellingtonbnm2/sockssn/main/rinegansocksvip",
   "Sms": "",
   "EmailFeedback": "gdncontas@gmail.com",
@@ -39,6 +39,16 @@
   ],
   "Networks": [
     {
+    "Name": "🟣VIVO PRE",
+    "FLAG": "vivo",
+    "Payload": "GET wss://vivo2.grupodanet.xyz HTTP/1.1[crlf]Host: [app_host][crlf]Connection: keep-alive[crlf]Upgrade: websocket[crlf]Sec-Websocket-Extensions: superspeed[crlf][crlf]",
+    "SNI": "vivo2.grupodanet.xyz",
+    "TlsIP": "vivo2.grupodanet.xyz",
+    "ProxyIP": "",
+    "ProxyPort": "443",
+    "Info": "Tlsws"
+    },
+    {
     "Name": "🟣VIVO easy",
     "FLAG": "vivo",
     "Payload": "GET wss://legado.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Connection: keep-alive[crlf]Upgrade: websocket[crlf]Sec-Websocket-Extensions: superspeed[crlf][crlf]",
@@ -61,9 +71,9 @@
     {  
         "Name": "Tim 1",
       "FLAG": "tim",
-      "Payload": "GET wss://static.r4you.co HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Keep-alive[crlf]Upgrade: ws[crlf][crlf]",
-      "SNI": "static.r4you.co",
-      "TlsIP": "104.26.5.175",
+      "Payload": "GET wss://blog.alura.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Keep-alive[crlf]Upgrade: ws[crlf][crlf]",
+      "SNI": "blog.alura.com.br",
+      "TlsIP": "blog.alura.com.br",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws" 
@@ -71,9 +81,9 @@
     {
       "Name": "TIM IPv4",
       "FLAG": "tim",
-      "Payload": "GET wss://static.r4you.co/ HTTP/1.1[crlf]Host: carvaandre.xyz[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "static.r4you.co",
-      "TlsIP": "static.r4you.co",
+      "Payload": "GET wss://api-tim.oston.io/ HTTP/1.1[crlf]Host: carvaandre.xyz[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "api-tim.oston.io",
+      "TlsIP": "api-tim.oston.io",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
